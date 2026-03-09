@@ -1,0 +1,4 @@
+Learning rate = 0.1
+Activation = Tanh
+Hidden layers = 3
+Hidden neurons = 3
