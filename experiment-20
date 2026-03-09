@@ -1,0 +1,4 @@
+Learning rate = 0.01
+Activation = Linear
+Hidden layers = 2
+Hidden neurons = 2
