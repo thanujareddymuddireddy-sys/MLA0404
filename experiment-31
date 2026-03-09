@@ -1,0 +1,4 @@
+Learning rate = 0.03
+Activation = ReLU
+Hidden layers = 3
+Hidden neurons = 3
